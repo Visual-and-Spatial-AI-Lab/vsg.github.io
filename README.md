@@ -1,1 +1,0 @@
-# vsg.github.io
