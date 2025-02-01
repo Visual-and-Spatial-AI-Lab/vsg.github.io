@@ -1,0 +1,330 @@
+
+{
+    "Peer-Reviewed Conference Proceedings" : {
+        "2025" : [],
+        "2024" : [{
+            "title" : "Evidential Transformers for Improved Image Retrieval",
+            "authors" : "Danilo Dordevic, Suryansh Kumar",
+            "publication" : "European Conference on Computer Vision (ECCV), 2024, Milano, Italy",
+            "paper" : "https://arxiv.org/pdf/2409.01082",
+            "code" : "https://arxiv.org/pdf/2409.01082",
+            "project" : "", 
+            "topics" : [
+                "Deep Learning",
+                "Evidental Learning",
+                "Image Search"
+            ]   
+        }, {
+            "title" : "Stereo Risk: A Continuous Modeling Approach to Stereo Matching",
+            "authors" : "Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Yao Yao, Luc Van Gool",
+            "publication" : "International Conference on Machine Learning (ICML), PMLR, 2024",
+            "paper" : "https://openreview.net/forum?id=Mfk6ZbD6eY",
+            "code" : "https://openreview.net/forum?id=Mfk6ZbD6eY",
+            "project" : "", 
+            "topics" : [
+                "3D Acquisition",
+                "Computer Vision",
+                "Stereo Matching"
+            ]   
+        }, {
+            "title" : "ICGNet: A Unified Approach for Instance-Centric Grasping",
+            "authors" : "René Zurbrügg, Yifan Liu, Francis Engelmann, Suryansh Kumar, Marco Hutter, Vaishakh Patil, Fisher Yu",
+            "publication" : "International Conference on Robotics and Automation (ICRA), IEEE, 2024",
+            "paper" : "https://arxiv.org/pdf/2401.09939",
+            "code" : "https://icgraspnet.github.io/",
+            "project" : "",
+            "topics" : [
+                "Grasping",
+                "3D Acquisition",
+                "Robotics"
+            ]   
+        }, {
+            "title" : "Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images",
+            "authors" : "Nishant Jain, Suryansh Kumar*, Luc Van Gool",
+            "publication" : "International Journal of Computer Vision (IJCV), Springer, 2024",
+            "paper" : "https://link.springer.com/article/10.1007/s11263-023-01936-1",
+            "code" : "",
+            "project" : "https://link.springer.com/article/10.1007/s11263-023-01936-1",
+            "topics" : [
+                "Deep Learning",
+                "Computer Vision"
+            ]   
+        }],
+        "2023" : [
+            {
+                "title": "How To Not Train Your Dragon: Training-free Embodied Object Goal Navigation with Semantic Frontiers",
+                "authors": "Junting Chen*, Guohao Li*, Suryansh Kumar, and others",
+                "publication": "Robotics Science and Systems, RSS Foundation, 2023, Daegu, South Korea.",
+                "topics": [
+                    "Embodied-AI",
+                    "Active SLAM",
+                    "Navigation",
+                    "Vision and Language"
+                ],
+                "year": "2023",
+                "project": "https://sgtvincent.github.io/StructNav/"
+            },
+            {
+                "title": "Single Image Depth Prediction Made Better: A Multivariate Gaussian Take",
+                "authors": "Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2023, Vancouver, Canada.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Deep Learning"
+                ],
+                "year": "2023",
+                "project": "https://arxiv.org/abs/2303.18164"
+            },
+            {
+                "title": "Enhanced Stable View-Synthesis",
+                "authors": "Nishant Jain*, Suryansh Kumar*, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2023, Vancouver, Canada.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Deep Learning",
+                    "Neural Rendering"
+                ],
+                "year": "2023",
+                "project": "https://suryanshkumar.github.io/Enhanced_Stable_View_Synthesis/"
+            },
+            {
+                "title": "Quantum Annealing for Single Image Super-Resolution",
+                "authors": "Han Yao Choong, Suryansh Kumar, Luc Van Gool. (Oral Presentation)",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2023, Vancouver, Canada.",
+                "topics": [
+                    "Quantum Computing",
+                    "Image Enhancement"
+                ],
+                "year": "2023",
+                "project": "https://suryanshkumar.github.io/Quantum_Annealing_for_SISR/"
+            },
+            {
+                "title": "VA-DepthNet: A Variational Approach to Single Image Depth Prediction",
+                "authors": "Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Luc Van Gool. (Spotlight Oral Presentation)",
+                "publication": "International Conference on Learning Representations, 2023, Kigali, Rwanda.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Deep Learning"
+                ],
+                "year": "2023",
+                "project": "https://suryanshkumar.github.io/Variational_Depth_Net/"
+            },
+            {
+                "title": "Uncertainty-Driven Dense Two-View Structure from Motion",
+                "authors": "Weirong Chen, Suryansh Kumar, and others (Oral Presentation)",
+                "publication": "International Conference on Intelligent Robots and Systems, IEEE/RSJ, 2023, Detroit, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Deep Learning"
+                ],
+                "year": "2023",
+                "project": "https://www.vis.xyz/pub/dtv-sfm/"
+            },
+            {
+                "title": "Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields",
+                "authors": "Soomin Lee, Le Chen, Jiahao Wang, Alex Liniger, Suryansh Kumar, and others. (Oral Presentation)",
+                "publication": "International Conference on Robotics and Automation, IEEE, 2023, London, UK.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Robotics",
+                    "Information Theory"
+                ],
+                "year": "2023",
+                "project": "https://www.vis.xyz/pub/robotic-3d-scan-with-nerf/"
+            },
+            {
+                "title": "Multi-View Photometric Stereo Revisited",
+                "authors": "Berk Kaya, Suryansh Kumar, Carlos Oliveira, Vittorio Ferrari, Luc Van Gool.",
+                "publication": "Winter Conference on Computer Vision, IEEE, 2023, Hawaii, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2023",
+                "project": "https://arxiv.org/abs/2210.07670"
+            }
+        ],
+        "2022" : [
+            {
+                "title": "Robustifying the Multi-Scale Representation of Neural Radiance Fields",
+                "authors": "Nishant Jain, Suryansh Kumar, Luc Van Gool. (Oral Presentation)",
+                "publication": "British Machine Vision Conference, 2022, London, UK.",
+                "topics": [
+                    "3D Computer Vision",
+                    "View Synthesis",
+                    "Neural Rendering"
+                ],
+                "year": "2022",
+                "project": "https://bmvc2022.mpi-inf.mpg.de/578/"
+            },
+            {
+                "title": "CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion",
+                "authors": "Yung-Hsu Yang, Tobias Fischer, Suryansh Kumar, and others",
+                "publication": "Conference on Robot Learning, 2022, Auckland, New Zealand.",
+                "topics": [
+                    "Tracking",
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://www.vis.xyz/pub/cc-3dt/"
+            },
+            {
+                "title": "Organic Priors in Non-Rigid Structure from Motion.",
+                "authors": "Suryansh Kumar, Luc Van Gool. (Oral Presentation, Top 2.7% of the papers)",
+                "publication": "European Conference on Computer Vision, 2022, Tel-Aviv, Israel.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Algebra",
+                    "Geometry",
+                    "Compressed Sensing"
+                ],
+                "year": "2022",
+                "project": "https://suryanshkumar.github.io/Organic_Prior_NRSfM/"
+            },
+            {
+                "title": "Learning Online Multi-Sensor Depth Fusion",
+                "authors": "Erik Sandström, Martin Oswald, Suryansh Kumar, Silvan W, and others",
+                "publication": "European Conference on Computer Vision, 2022, Tel-Aviv, Israel.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://github.com/tfy14esa/SenFuNet"
+            },
+            {
+                "title": "Uncertainty Aware Deep Multi-View Photometric Stereo",
+                "authors": "Berk Kaya, Suryansh Kumar, Carlos Oliveira, Vittorio Ferrari, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2022, New Orleans, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://berk95kaya.github.io/UA_MVPS_project_page/"
+            },
+            {
+                "title": "Generative Flows with Invertible Attentions",
+                "authors": "Rhea Sukthanker, Zhiwu Huang, Suryansh Kumar, Radu Timofte, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2022, New Orleans, USA.",
+                "topics": [
+                    "Generative Models",
+                    "Image Processing"
+                ],
+                "year": "2022",
+                "project": "https://arxiv.org/abs/2106.03959"
+            },
+            {
+                "title": "Trilevel Neural Architecture Search for Efficient Single Image Super-Resolution",
+                "authors": "Yan Wu, Zhiwu Huang, Suryansh Kumar, Rhea Sukthanker, Radu Timofte, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2022, New Orleans, USA.",
+                "topics": [
+                    "AutoML",
+                    "Image Processing"
+                ],
+                "year": "2022",
+                "project": "https://arxiv.org/abs/2101.06658"
+            },
+            {
+                "title": "A Real-Time Online Learning Framework for Joint 3D Reconstruction and Semantic Seg. of Indoor Scenes",
+                "authors": "Davide Menini, Suryansh Kumar, M. Oswald, E. Sandstrom, C. Sminchisescu, Luc Van Gool. (Oral Presentation)",
+                "publication": "International Conference on Robotics and Automation, IEEE, 2022, Philadelphia, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://suryanshkumar.github.io/online-joint-depthfusion-and-semantic_project_page/"
+            },
+            {
+                "title": "Neural Architecture Search for Efficient Uncalibrated Deep Photometric Stereo.",
+                "authors": "Francesco Sarno, Suryansh Kumar, Berk Kaya, Zhiwu Huang, Vittorio Ferrari, Luc Van Gool.",
+                "publication": "Winter Conference on Applications of Computer Vision, IEEE, 2022, Hawaii, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://berk95kaya.github.io/NAS_UPS_WACV2022/"
+            },
+            {
+                "title": "Neural Radiance Fields Approach to Deep Multi-View Photometric Stereo.",
+                "authors": "Berk Kaya, Suryansh Kumar, Francesco Sarno, Vittorio Ferrari, Luc Van Gool.",
+                "publication": "Winter Conference on Applications of Computer Vision, IEEE, 2022, Hawaii, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2022",
+                "project": "https://berk95kaya.github.io/Neural_MVPS_WACV2022/"
+            }
+        ],
+        "2021" : [
+            {
+                "title": "Uncalibrated Neural Inverse Rendering for Photometric Stereo of General Surfaces",
+                "authors": "Berk Kaya, Suryansh Kumar, Carlos Oliveira, Vittorio Ferrari, Luc Van Gool.",
+                "publication": "Conference on Computer Vision and Pattern Recognition, IEEE, 2021, Nashville, USA.",
+                "topics": [
+                    "3D Computer Vision",
+                    "Machine Learning"
+                ],
+                "year": "2021",
+                "project": "https://suryanshkumar.github.io/Uncalibrated_PS_CVPR21/"
+            },
+            {
+                "title": "Neural Architecture Search of SPD Manifold Networks",
+                "authors": "Rhea Sukthanker, Zhiwu Huang, Suryansh Kumar, Erik Goron. E, Yan Wu, Luc Van Gool.",
+                "publication": "International Joint Conference on Artificial Intelligence, 2021, Montreal, Canada.",
+                "topics": [
+                    "AutoML",
+                    "Matrix Manifolds"
+                ],
+                "year": "2021",
+                "project": "https://github.com/rheasukthanker/spdnetnas"
+            }
+        ]
+    },
+    "Peer-Reviewed Journals" : [
+        {
+            "title" : "Learning Robust Multi-Scale Representation for NeRF from Unposed Images",
+            "authors" : "Nishant Jain, Suryansh Kumar, Luc Van Gool",
+            "publication" : "International Journal of Computer Vision (IJCV) 2024",
+            "paper" : "https://arxiv.org/pdf/2311.04521",
+            "impact" : "19.2"
+        },
+        {
+            "title" : "Uncertainty-Driven Dense Two-View Structure from Motion",
+            "authors" : "Weirong Chen, Suryansh Kumar, Fisher Yu",
+            "publication" : "IEEE Robotics and Automation Letter (RAL), 2023",
+            "paper" : "https://arxiv.org/pdf/2302.00523",
+            "impact" : "5.20"
+        },
+        {
+            "title" : "Uncertainty Guided Policy for Active Robotic 3D Rec. using Neural Radiance Fields",
+            "authors" : "Soomin Lee, Le Chen, J Wang, Alex Liniger, Suryansh Kumar*, Fisher Yu",
+            "publication" : "IEEE Robotics and Automation Letter (RAL), 2022",
+            "paper" : "https://arxiv.org/pdf/2209.08409",
+            "impact" : "5.20"
+        },
+        {
+            "title" : "A Real-Time Online Learning Framework for Joint 3D & Sem. Seg. of Indoor Scenes",
+            "authors" : "Davide Menini, Suryansh Kumar, Martin O, Erik S, Cristian S, L Van Gool.",
+            "publication" : "IEEE Robotics and Automation Letter (RAL), 2022",
+            "paper" : "https://arxiv.org/pdf/2108.05246",
+            "impact" : "5.20"
+        },{
+            "title" : "Superpixel Soup: Monocular Dense 3D Reconstruction of a Complex Dynamic Scene",
+            "authors" : "Suryansh Kumar, Yuchao Dai, Hongdong Li",
+            "publication" : "IEEE Transactions on Pattern and Machine Intelligence (T-PAMI), 2021",
+            "paper" : "https://arxiv.org/pdf/1911.09092",
+            "impact" : "17.86"
+        },{
+            "title" : "Spatio-Temporal Union of Subspaces for Multi-body Non-rigid Structure-from-Motion",
+            "authors" : "Suryansh Kumar, Yuchao Dai, Hongdong Li",
+            "publication" : "Elsevier Pattern Recognition Journal (PR),2017",
+            "paper" : "https://www.sciencedirect.com/science/article/abs/pii/S0031320317302029",
+            "impact" : "7.19"
+        }
+    ]
+}

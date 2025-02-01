@@ -1,0 +1,31 @@
+[{
+    "video" : "./videos/icra-24.mp4",
+    "title" : "ICGNet: A Unified Approach for Instance-Centric Grasping",
+    "description" : "ICRA 2024",
+    "link" : "https://icgraspnet.github.io/"
+}, {
+    "video" : "./videos/icra-23.mp4",
+    "title" : "Uncertainty Guided Policy for Active Robotic 3D using NeRF",
+    "description" : "ICRA 2023",
+    "link" : "https://www.vis.xyz/pub/robotic-3d-scan-with-nerf/"
+}, {
+    "video" : "./videos/cvpr-21.mp4",
+    "title" : "Uncalibrated Neural Inverse Rendering for Photometric Stereo of General Surfaces",
+    "description" : "CVPR 2021",
+    "link" : "https://suryanshkumar.github.io/Uncalibrated_PS_CVPR21/"
+}, {
+    "video" : "./videos/eccv-22.mp4",
+    "title" : "Organic Priors in Non-Rigid Structure from Motion",
+    "description" : "ECCV 2022",
+    "link" : "https://suryanshkumar.github.io/Organic_Prior_NRSfM/"
+}, {
+    "video" : "./videos/iclr-23.mp4",
+    "title" : "VA-DepthNet: A Variational Approach to Single Image Depth Prediction",
+    "description" : "ICLR 2023",
+    "link" : "https://suryanshkumar.github.io/Variational_Depth_Net/"
+}, {
+    "video" : "./videos/icra-22.mp4",
+    "title" : "A Real-Time Online Learning Framework for Joint 3D Reconstruction and Semantic Seg. of Indoor Scenes",
+    "description" : "ICRA 2022",
+    "link" : "https://suryanshkumar.github.io/online-joint-depthfusion-and-semantic_project_page/"
+}]
