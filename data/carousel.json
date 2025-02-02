@@ -7,7 +7,7 @@
     "video" : "./videos/icra-23.mp4",
     "title" : "Uncertainty Guided Policy for Active Robotic 3D using NeRF",
     "description" : "ICRA 2023",
-    "link" : "https://www.vis.xyz/pub/robotic-3d-scan-with-nerf/"
+    "link" : "https://www.youtube.com/watch?v=IAo9XI_1K88"
 }, {
     "video" : "./videos/cvpr-21.mp4",
     "title" : "Uncalibrated Neural Inverse Rendering for Photometric Stereo of General Surfaces",
