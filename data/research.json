@@ -290,34 +290,34 @@
             "title" : "Learning Robust Multi-Scale Representation for NeRF from Unposed Images",
             "authors" : "Nishant Jain, Suryansh Kumar, Luc Van Gool",
             "publication" : "International Journal of Computer Vision (IJCV) 2024",
-            "paper" : "https://arxiv.org/pdf/2311.04521",
+            "paper" : "https://link.springer.com/article/10.1007/s11263-023-01936-1",
             "impact" : "19.2"
         },
         {
             "title" : "Uncertainty-Driven Dense Two-View Structure from Motion",
             "authors" : "Weirong Chen, Suryansh Kumar, Fisher Yu",
             "publication" : "IEEE Robotics and Automation Letter (RAL), 2023",
-            "paper" : "https://arxiv.org/pdf/2302.00523",
+            "paper" : "https://ieeexplore.ieee.org/abstract/document/10036010",
             "impact" : "5.20"
         },
         {
-            "title" : "Uncertainty Guided Policy for Active Robotic 3D Rec. using Neural Radiance Fields",
+            "title" : "Uncertainty Guided Policy for Active Robotic 3D Reconstruction using Neural Radiance Fields",
             "authors" : "Soomin Lee, Le Chen, J Wang, Alex Liniger, Suryansh Kumar*, Fisher Yu",
             "publication" : "IEEE Robotics and Automation Letter (RAL), 2022",
-            "paper" : "https://arxiv.org/pdf/2209.08409",
+            "paper" : "https://ieeexplore.ieee.org/abstract/document/9913658",
             "impact" : "5.20"
         },
         {
             "title" : "A Real-Time Online Learning Framework for Joint 3D & Sem. Seg. of Indoor Scenes",
             "authors" : "Davide Menini, Suryansh Kumar, Martin O, Erik S, Cristian S, L Van Gool.",
             "publication" : "IEEE Robotics and Automation Letter (RAL), 2022",
-            "paper" : "https://arxiv.org/pdf/2108.05246",
+            "paper" : "https://ieeexplore.ieee.org/document/9664227",
             "impact" : "5.20"
         },{
             "title" : "Superpixel Soup: Monocular Dense 3D Reconstruction of a Complex Dynamic Scene",
             "authors" : "Suryansh Kumar, Yuchao Dai, Hongdong Li",
             "publication" : "IEEE Transactions on Pattern and Machine Intelligence (T-PAMI), 2021",
-            "paper" : "https://arxiv.org/pdf/1911.09092",
+            "paper" : "https://ieeexplore.ieee.org/document/8910408",
             "impact" : "17.86"
         },{
             "title" : "Spatio-Temporal Union of Subspaces for Multi-body Non-rigid Structure-from-Motion",
