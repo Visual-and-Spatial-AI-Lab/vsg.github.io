@@ -287,6 +287,13 @@
     },
     "Peer-Reviewed Journals" : [
         {
+            "title" : "Mobile Robotic Multi-View Photometric Stereo",
+            "authors" : "Suryansh Kumar",
+            "publication" : "International Society Journal of Photogrammetry and Remote Sensing (ISPRS) 2025",
+            "paper" : "",
+            "impact" : "10.6"
+        },
+        {
             "title" : "Learning Robust Multi-Scale Representation for NeRF from Unposed Images",
             "authors" : "Nishant Jain, Suryansh Kumar*, Luc Van Gool",
             "publication" : "International Journal of Computer Vision (IJCV) 2024",
