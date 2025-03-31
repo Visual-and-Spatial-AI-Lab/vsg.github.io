@@ -1,0 +1,200 @@
+{
+  "PhD": [
+    {
+      "id": 1,
+      "name": "Ce Liu",
+      "thesis": "Learning Depth from Images",
+      "Defended": "03-2024",
+      "position": "Researcher",
+      "company": "Shanghai AI Research Lab"
+    },
+    {
+      "id": 2,
+      "name": "Berk Kaya",
+      "thesis": "A Modern Take on Photometric 3D-Reconstruction",
+      "Defended": "01-2023",
+      "position": "Research Scientist",
+      "company": "Apple Zurich"
+    }
+  ],
+  "MS": [
+    {
+      "id": 1,
+      "name": "Alyssa Cassity (TAMU) [Chair]",
+      "thesis": "Reinforcement learning in Strategy games",
+      "Defended": "03-2025",
+      "position": "Apprentice",
+      "company": "Duality AI"
+    },
+    {
+      "id": 2,
+      "name": "Yeun Park (TAMU) [Chair]",
+      "thesis": "Advancing Dense 3d Human Motion Capture System",
+      "Defended": "03-2025",
+      "position": "Product Engineer",
+      "company": "ESRI California"
+    },
+    {
+      "id": 3,
+      "name": "Danilo Dordevic",
+      "thesis": "Making Image Retrieval More Relevant",
+      "Defended": "09-2023",
+      "position": "Machine Learning Engineer",
+      "company": "ABB"
+    },
+    {
+      "id": 4,
+      "name": "Wenkel Jan",
+      "thesis": "Detecting Non-Rigid Motion: A curvature based approach",
+      "Defended": "08-2023",
+      "position": "MS student",
+      "company": "ETH Zurich"
+    },
+    {
+      "id": 5,
+      "name": "Marcus Leong",
+      "thesis": "Model-free RL for robot navigation with NeRF",
+      "Defended": "01-2023",
+      "position": "MS student",
+      "company": "ETH Zurich"
+    },
+    {
+      "id": 6,
+      "name": "Yasaman Haghighi",
+      "thesis": "Dense Semantic SLAM using Neural Implicit Representation",
+      "Defended": "04-2023",
+      "position": "Ph.D. student",
+      "company": "EPFL Switzerland"
+    },
+    {
+      "id": 7,
+      "name": "Ozgür Fikrican",
+      "thesis": "Sample-efficient Deep RL for Robotic Manipulation",
+      "Defended": "04-2023",
+      "position": "Software Engineer",
+      "company": "ABB"
+    },
+    {
+      "id": 8,
+      "name": "Choong Han Yao",
+      "thesis": "Quantum Annealing for Single Image Super-Resolution",
+      "Defended": "03-2023",
+      "position": "MS student",
+      "company": "ETH Zurich"
+    },
+    {
+      "id": 9,
+      "name": "Junting Chen",
+      "thesis": "Training-free Embodied Obj. Nav. with Structured Scene Representation",
+      "Defended": "09-2022",
+      "position": "Ph.D. student",
+      "company": "National University of Singapore"
+    },
+    {
+      "id": 10,
+      "name": "Stanhope Jackson",
+      "thesis": "Improved Active Robotic 3D Reconstruction using NeRF",
+      "Defended": "06-2022",
+      "position": "Ph.D. student",
+      "company": "ETH Zurich"
+    },
+    {
+      "id": 11,
+      "name": "Vincent van der Brugge",
+      "thesis": "Single image scene reconstruction using 3D object priors",
+      "Defended": "08-2022",
+      "position": "",
+      "company": "MIT, CSAIL, Cambridge, USA"
+    },
+    {
+      "id": 12,
+      "name": "Weirong Chen",
+      "thesis": "Dense Two-View SfM: A Robust Approach",
+      "Defended": "09-2022",
+      "position": "Joint Ph.D.",
+      "company": "TUM Germany and Oxford University"
+    },
+    {
+      "id": 13,
+      "name": "Noah Rothenberger",
+      "thesis": "Bringing MVPS and Mobile Robotics Together",
+      "Defended": "02-2022",
+      "position": "Engineer",
+      "company": "NASA JPL"
+    },
+    {
+      "id": 14,
+      "name": "Soomin Lee",
+      "thesis": "Active Robotic 3D Reconstruction using NeRF",
+      "Defended": "11-2021",
+      "position": "Machine Learning Engineer",
+      "company": "Oracle"
+    },
+    {
+      "id": 15,
+      "name": "Valentin Ibars",
+      "thesis": "Light Calibration in PS using Vision Transformer",
+      "Defended": "06-2021",
+      "position": "Co-Founder WasteFlow, Engineer",
+      "company": "NASA"
+    },
+    {
+      "id": 16,
+      "name": "Rhea Sukthanker",
+      "thesis": "Attention in Generative Models for Efficient Visual SR",
+      "Defended": "04-2021",
+      "position": "Ph.D. student",
+      "company": "University of Freiburg"
+    },
+    {
+      "id": 17,
+      "name": "Sarno Francesco",
+      "thesis": "Exploring Auto ML Framework for Deep PS",
+      "Defended": "03-2021",
+      "position": "Engineer, Computer Vision Lab",
+      "company": "EPFL"
+    },
+    {
+      "id": 18,
+      "name": "Menini Davide",
+      "thesis": "Real time 3D Reconstruction and Semantic Mapping",
+      "Defended": "03-2021",
+      "position": "Software Engineer",
+      "company": "Swisscom"
+    },
+    {
+      "id": 19,
+      "name": "Serafino Samuele",
+      "thesis": "NAS on Lie Groups for Skeleton-based Action Recognition",
+      "Defended": "12-2020",
+      "position": "Data Engineer",
+      "company": "Sonepar Suisse AG"
+    },
+    {
+      "id": 20,
+      "name": "Yan Wu",
+      "thesis": "Trilevel NAS for Efficient Single Image Super-Resolution",
+      "Defended": "12-2020",
+      "position": "Ph.D. student",
+      "company": "ETH Zurich"
+    },
+    {
+      "id": 21,
+      "name": "Erik E. Goron",
+      "thesis": "NAS of SPD Manifold Nets: A Geometric Perspective",
+      "Defended": "06-2020",
+      "position": "Engineer",
+      "company": "HappyRobot"
+    }
+  ],
+  "BS": [
+    {
+      "id": 1,
+      "name": "Timo Kleger",
+      "thesis": "Vision based inference of non-linear dynamical cloud timelapse",
+      "Defended": "02-2022",
+      "position": "Engineer",
+      "company": "Cellsius"
+    }
+  ]
+}
