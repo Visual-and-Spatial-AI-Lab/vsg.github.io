@@ -1,5 +1,5 @@
 {
-  "PhD": [
+  "Ph.D.(first appointment following supervision noted)": [
     {
       "id": 1,
       "name": "Ce Liu",
@@ -17,7 +17,7 @@
       "company": "Apple Zurich"
     }
   ],
-  "MS": [
+  "M.S.(first appointment following supervision noted)": [
     {
       "id": 1,
       "name": "Alyssa Cassity (TAMU) [Chair]",
