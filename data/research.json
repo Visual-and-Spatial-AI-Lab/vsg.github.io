@@ -291,14 +291,14 @@
             "authors" : "Suryansh Kumar",
             "publication" : "International Journal of Photogrammetry and Remote Sensing (ISPRS) 2025",
             "paper" : "https://arxiv.org/abs/2502.10842",
-            "impact" : "10.6"
+            "impact" : "12.2"
         },
         {
             "title" : "Learning Robust Multi-Scale Representation for NeRF from Unposed Images",
             "authors" : "Nishant Jain, Suryansh Kumar*, Luc Van Gool",
             "publication" : "International Journal of Computer Vision (IJCV) 2024",
             "paper" : "https://link.springer.com/article/10.1007/s11263-023-01936-1",
-            "impact" : "19.2"
+            "impact" : "11.6"
         },
         {
             "title" : "Uncertainty-Driven Dense Two-View Structure from Motion",
