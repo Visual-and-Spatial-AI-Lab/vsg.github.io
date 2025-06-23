@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
             journalPaperHolder.innerHTML += `<b>${paper.title}</b>
               <br>${paper.authors}
               <br> <em>${paper.publication}</em>
-              <br> <b style="color: #500">Impact Score : ${paper.impact}</b>
+              <br> <b style="color: #500">Impact Factor : ${paper.impact}</b>
               <br> 
                 ${paper.paper ? `[ <a href="${paper.paper}">paper</a> ]` : ""} 
               <br><br>`;
