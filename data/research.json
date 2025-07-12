@@ -1,7 +1,33 @@
 
 {
     "Peer-Reviewed Conference Proceedings" : {
-        "2025" : [],
+        "2025" : [
+            {
+            "title" : "Interactive Video Generation via Domain Adaptation",
+            "authors" : "Ishaan Rawal, Suryansh Kumar",
+            "publication" : "Preprint, arXiv, 2025",
+            "paper" : "https://arxiv.org/abs/2505.24253",
+            "code" : "https://arxiv.org/abs/2505.24253",
+            "project" : "", 
+            "topics" : [
+                "Diffusion Model",
+                "Domain Adaptation",
+                "Video Generation"
+            ]   
+        }, {
+            "title" : "Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks",
+            "authors" : "Fikrican Özgür, René Zurbrügg, Suryansh Kumar",
+            "publication" : "Preprint, arXiv, 2025",
+            "paper" : "https://arxiv.org/abs/2504.11247",
+            "code" : "https://arxiv.org/abs/2504.11247",
+            "project" : "", 
+            "topics" : [
+                "3D Acquisition",
+                "Computer Vision",
+                "Stereo Matching"
+            ]   
+        }
+        ],
         "2024" : [{
             "title" : "Evidential Transformers for Improved Image Retrieval",
             "authors" : "Danilo Dordevic, Suryansh Kumar",
