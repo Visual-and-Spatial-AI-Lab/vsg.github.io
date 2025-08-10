@@ -190,6 +190,14 @@
   "BS": [
     {
       "id": 1,
+      "name": "Nishant Jain",
+      "thesis": "Neural scene representation learning",
+      "Defended": "02-2023",
+      "position": "Research Engineer",
+      "company": "Google"
+    },
+    {
+      "id": 2,
       "name": "Timo Kleger",
       "thesis": "Vision based inference of non-linear dynamical cloud timelapse",
       "Defended": "02-2022",
