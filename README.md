@@ -1,4 +1,4 @@
-# Visual and Spatial Gradient Lab Website
+# Visual and Spatial AI Lab Website
 
 This codebase belongs to the visual and spatial gradient lab in Texas A&M University, College Station.
 
@@ -35,7 +35,7 @@ Refer to the ```./data/research.json``` and add your research paper details in t
         ]   
     }
 ```
-### For Jounral Publications
+### For Journal Publications
 ```
     {
         "title" : "Spatio-Temporal Union of Subspaces for Multi-body Non-rigid Structure-from-Motion",
