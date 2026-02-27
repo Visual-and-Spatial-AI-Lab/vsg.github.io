@@ -311,6 +311,13 @@
     },
     "Peer-Reviewed Journals" : [
         {
+            "title" : "Time-Archival Camera Virtualization for Sports and Visual Performance",
+            "authors" : "Yunxiao Zhang, William Stone, Suryansh Kumar",
+            "publication" : "Computer Vision and Image Understanding (CVIU) 2025",
+            "paper" : "https://arxiv.org/abs/2602.15181",
+            "impact" : "3.5"
+        },
+        {
             "title" : "Mobile Robotic Multi-View Photometric Stereo",
             "authors" : "Suryansh Kumar",
             "publication" : "International Journal of Photogrammetry and Remote Sensing (ISPRS) 2025",
