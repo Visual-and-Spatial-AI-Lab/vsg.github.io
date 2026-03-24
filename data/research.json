@@ -5,8 +5,8 @@
             "title" : "Rethinking Dense Optical Flow without Test-Time Scaling",
             "authors" : "Praroop Chanda, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, ViSCALE Workshop",
-            "paper" : "",
-            "code" : "",
+            "paper" : "https://arxiv.org/abs/",
+            "code" : "https://arxiv.org/abs/",
             "project" : "", 
             "topics" : [
                 "Foundation Models",
@@ -16,8 +16,8 @@
             "title" : "A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture",
             "authors" : "Yeeun Park, Miqdad Naduthodi, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
-            "paper" : "",
-            "code" : "",
+            "paper" : "https://arxiv.org/abs",
+            "code" : "https://arxiv.org/abs",
             "project" : "", 
             "topics" : [
                 "3D Acquisition",
@@ -28,8 +28,8 @@
             "title" : "3DGS for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark",
             "authors" : "Yunxiao Zhang, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
-            "paper" : "",
-            "code" : "",
+            "paper" : "https://arxiv.org/abs",
+            "code" : "https://arxiv.org/abs",
             "project" : "", 
             "topics" : [
                 "3DGS",
@@ -39,8 +39,8 @@
             "title" : "Test-Time Domain Adaptation for Interactive Video Generation",
             "authors" : "Ishaan Singh Rawal, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, VGBE Workshop",
-            "paper" : "",
-            "code" : "",
+            "paper" : "https://arxiv.org/abs",
+            "code" : "https://arxiv.org/abs",
             "project" : "", 
             "topics" : [
                 "Video Generation",
