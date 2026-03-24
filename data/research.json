@@ -1,6 +1,53 @@
 
 {
-    "Peer-Reviewed Conference Proceedings" : {
+    "Peer-Reviewed Conference amd Workshop Proceedings" : {
+        "2026" : [{
+            "title" : "Rethinking Dense Optical Flow without Test-Time Scaling",
+            "authors" : "Praroop Chanda, Suryansh Kumar",
+            "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, ViSCALE Workshop",
+            "paper" : "",
+            "code" : "",
+            "project" : "", 
+            "topics" : [
+                "Foundation Models",
+                "Optical Flow"
+            ]   
+        }, {
+            "title" : "A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture",
+            "authors" : "Yeeun Park, Miqdad Naduthodi, Suryansh Kumar",
+            "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
+            "paper" : "",
+            "code" : "",
+            "project" : "", 
+            "topics" : [
+                "3D Acquisition",
+                "Motion Capture",
+                "Human Modeling"
+            ]   
+        }, {
+            "title" : "3DGS for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark",
+            "authors" : "Yunxiao Zhang, Suryansh Kumar",
+            "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
+            "paper" : "",
+            "code" : "",
+            "project" : "", 
+            "topics" : [
+                "3DGS",
+                "Novel View Synthesis"
+            ]
+        }, {
+            "title" : "Test-Time Domain Adaptation for Interactive Video Generation",
+            "authors" : "Ishaan Singh Rawal, Suryansh Kumar",
+            "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, VGBE Workshop",
+            "paper" : "",
+            "code" : "",
+            "project" : "", 
+            "topics" : [
+                "Video Generation",
+                "Diffusion Model",
+                "Domain Adaptation"
+            ]
+        }],
         "2025" : [{
             "title" : "Interactive Video Generation via Domain Adaptation",
             "authors" : "Ishaan Rawal, Suryansh Kumar",
