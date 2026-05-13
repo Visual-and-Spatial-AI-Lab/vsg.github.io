@@ -1,7 +1,12 @@
 [
     {
+        "title" : "Received ICML 2026 Gold Reviewer Award",
+        "summary" : "Rated among the top reviewer for the year 2026. Based on the rating provided by the area chairs, the program chairs recognized Dr. Kumar as a Gold Reviewer, providing free registration to attend ICML 2026.",
+        "date" : "May 2026",
+        "link" : "./index.html"
+    }, {
         "title" : "Paper Accepted for Publication at CVPR 2026",
-        "summary" : "Four papers accepted for publication in CVPR workshop proceedings. These papers covers advance topics in computer vision and machine learning such as Vision Foundation Models, Diffusion Models, 3DGS, and Motion Capture",
+        "summary" : "Four papers accepted for publication in CVPR workshop proceedings. These papers covers advance topics in computer vision and machine learning such as Vision Foundation Models, Diffusion Models, 3DGS, and Motion Capture.",
         "date" : "Mar. 2026",
         "link" : "./index.html"
     }, {
@@ -16,12 +21,12 @@
         "link" : "./index.html"
     }, {
         "title" : "AI Seed Grant.",
-        "summary" : "Received AI Seed Grant for Research and Creative Works from the College of PVFA. This work will be conducted in collaboration with Jeff Morris and Corte Guiherme",
+        "summary" : "Received AI Seed Grant for Research and Creative Works from the College of PVFA. This work will be conducted in collaboration with Jeff Morris and Corte Guiherme.",
         "date" : "Oct. 2024",
         "link" : "./index.html"
     }, {
         "title" : "TAMIDS Course Development Awardee for 2024.",
-        "summary" : "Dr. Kumar received Texas A&M Institute of Data Science Award for developing course on DeepLearning for 3D Computer Vision",
+        "summary" : "Dr. Kumar received Texas A&M Institute of Data Science Award for developing course on DeepLearning for 3D Computer Vision.",
         "date" : "May 2024",
         "link" : "https://tamids.tamu.edu/2024/04/16/2024-data-science-course-development-awardees/"
     }
