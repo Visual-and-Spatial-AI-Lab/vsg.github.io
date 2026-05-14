@@ -1,4 +1,10 @@
 [{
+    "video" : "./videos/mocap-cvpr-26.mp4",
+    "title" : "Complex 4D Markerless Human Motion Capture",
+    "description" : "CVPR 2026",
+    "link" : "https://parkyeeun23.github.io/HUM4D/"
+},
+{
     "video" : "./videos/icra-24.mp4",
     "title" : "ICGNet: A Unified Approach for Instance-Centric Grasping",
     "description" : "ICRA 2024",
