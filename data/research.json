@@ -5,8 +5,8 @@
             "title" : "Rethinking Dense Optical Flow without Test-Time Scaling",
             "authors" : "Praroop Chanda, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, ViSCALE Workshop",
-            "paper" : "https://arxiv.org/abs/",
-            "code" : "https://arxiv.org/abs/",
+            "paper" : "https://arxiv.org/abs/2605.08000",
+            "code" : "https://visual-and-spatial-ai-lab.github.io/DOF-TS/",
             "project" : "", 
             "topics" : [
                 "Foundation Models",
@@ -16,8 +16,8 @@
             "title" : "A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture",
             "authors" : "Yeeun Park, Miqdad Naduthodi, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
-            "paper" : "https://arxiv.org/abs",
-            "code" : "https://arxiv.org/abs",
+            "paper" : "https://arxiv.org/abs/2604.12765",
+            "code" : "https://parkyeeun23.github.io/HUM4D/",
             "project" : "", 
             "topics" : [
                 "3D Acquisition",
@@ -28,8 +28,8 @@
             "title" : "3DGS for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark",
             "authors" : "Yunxiao Zhang, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, 4D World Models Workshop",
-            "paper" : "https://arxiv.org/abs",
-            "code" : "https://arxiv.org/abs",
+            "paper" : "https://arxiv.org/abs/2605.12437",
+            "code" : "https://github.com/JackZhang-SH/TimeArchival3DGS",
             "project" : "", 
             "topics" : [
                 "3DGS",
@@ -39,8 +39,8 @@
             "title" : "Test-Time Domain Adaptation for Interactive Video Generation",
             "authors" : "Ishaan Singh Rawal, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, VGBE Workshop",
-            "paper" : "https://arxiv.org/abs",
-            "code" : "https://arxiv.org/abs",
+            "paper" : "https://arxiv.org/abs/2505.24253",
+            "code" : "https://visual-and-spatial-ai-lab.github.io/IVG-DA/",
             "project" : "", 
             "topics" : [
                 "Video Generation",
@@ -53,7 +53,7 @@
             "authors" : "Ishaan Rawal, Suryansh Kumar",
             "publication" : "Preprint, arXiv, 2025",
             "paper" : "https://arxiv.org/abs/2505.24253",
-            "code" : "https://arxiv.org/abs/2505.24253",
+            "code" : "https://visual-and-spatial-ai-lab.github.io/IVG-DA/",
             "project" : "", 
             "topics" : [
                 "Diffusion Model",
