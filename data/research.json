@@ -1,7 +1,31 @@
 
 {
     "Peer-Reviewed Conference Proceedings" : {
+        "2027" : [{
+            "title" : "No Cones, No Duals: A Fast and Scalable Solver for NRSfM",
+            "authors" : "Suryansh Kumar",
+            "publication" : "Winter Conference on Applications of Computer Vision (WACV), IEEE, 2027, Florida, USA.",
+            "paper" : "",
+            "code" : "https://suryanshkumar.github.io/Non-Rigid-Structure-from-Motion/",
+            "project" : "", 
+            "topics" : [
+                "Geometric Modeling",
+                "Computational Graph",
+                "Fast Optimization"
+            ]
+        }],
         "2026" : [{
+            "title" : "Foundation Model Driven Optical Flow",
+            "authors" : "Praroop Chanda, Suryansh Kumar",
+            "publication" : "Conference on Neural Information Processing Systems (NeurIPS), 2026, RoCo-Spring Workshop",
+            "paper" : "https://openreview.net/pdf?id=zuRXHI62cn",
+            "code" : "https://github.com/Visual-and-Spatial-AI-Lab/FFlow",
+            "project" : "", 
+            "topics" : [
+                "Foundation Models",
+                "Optical Flow"
+            ]   
+        }, {
             "title" : "Rethinking Dense Optical Flow without Test-Time Scaling",
             "authors" : "Praroop Chanda, Suryansh Kumar",
             "publication" : "Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2026, ViSCALE Workshop",
