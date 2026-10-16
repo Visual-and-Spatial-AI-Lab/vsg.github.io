@@ -1,5 +1,17 @@
 [
     {
+        "title" : "Paper Accepted for Publication at IEEE WACV 2027",
+        "summary" : "One paper titled \"No Cones, No Duals: A Fast and Scalable Solver for NRSfM\" is accepted for publication in the main conference at IEEE/CVF WACV 2027. The approach is first of its kind: 1) a fast rotation solver and 2) proximal gradient solver for shape using unrolled deterministic computation graph.",
+        "date" : "Oct 2026",
+        "link" : "./index.html"
+    },
+    {
+        "title" : "Paper Accepted for Publication at NeurIPS 2026 Workshop",
+        "summary" : "One paper titled \"Foundation Model Driven Optical Flow\" is accepted for publication in RoCo-Spring: The Robust Correspondence Challenge, NeurIPS 2026. Our simple approach ranked 8-th on the leader board out of 72 submission at the time of acceptance.",
+        "date" : "Oct 2026",
+        "link" : "./index.html"
+    },
+    {
         "title" : "Received CVPR 2026 Outstanding Reviewer Recognition",
         "summary" : "Dr. Kumar was recognized as an Outstanding Reviewer for CVPR 2026. This distinction is awarded to reviewers whose evaluations were identified by Area Chairs as being among the top 5% in quality, depth, and constructive feedback across the conference review process.",
         "date" : "May 2026",
