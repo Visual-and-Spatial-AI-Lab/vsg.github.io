@@ -5,8 +5,8 @@
             "title" : "No Cones, No Duals: A Fast and Scalable Solver for NRSfM",
             "authors" : "Suryansh Kumar",
             "publication" : "Winter Conference on Applications of Computer Vision (WACV), IEEE, 2027, Florida, USA.",
-            "paper" : "https://visual-and-spatial-ai-lab.github.io/vsg.github.io/index.html",
-            "code" : "https://suryanshkumar.github.io/Non-Rigid-Structure-from-Motion/",
+            "paper" : "https://suryanshkumar.github.io/no-cones-no-duals/",
+            "code" : "https://suryanshkumar.github.io/no-cones-no-duals/",
             "project" : "", 
             "topics" : [
                 "Geometric Modeling",
