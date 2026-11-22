@@ -1,5 +1,11 @@
 [
     {
+        "title" : "Received Excellence in Research & Creative Works Award",
+        "summary": "Dr. Kumar received the 2026 \"Excellence in Research & Creative Works\" Award from the College of Performance, Visualization and Fine Arts (PVFA) at Texas A&M University. We thank our students, collaborators, and colleagues for their contributions to the lab's research and their continued support.",
+        "date": "Nov. 2026",
+        "link" : "./index.html"
+    },
+    {
         "title" : "Paper Accepted for Publication at IEEE WACV 2027",
         "summary" : "One paper titled \"No Cones, No Duals: A Fast and Scalable Solver for NRSfM\" is accepted for publication in the main conference at IEEE/CVF WACV 2027. The approach is first of its kind: 1) a fast rotation solver and 2) proximal gradient solver for shape using unrolled deterministic computation graph.",
         "date" : "Oct 2026",
